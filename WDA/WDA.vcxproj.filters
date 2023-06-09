@@ -32,6 +32,9 @@
     <ClCompile Include="WDA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Win_Init.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="WDA.rc">

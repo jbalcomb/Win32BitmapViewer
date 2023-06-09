@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WDA.cpp" />
+    <ClCompile Include="Win_Init.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="WDA.rc" />
