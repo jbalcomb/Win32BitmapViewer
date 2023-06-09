@@ -1,5 +1,6 @@
 // Win32BitmapViewer.cpp : Defines the entry point for the application.
-//
+
+// New Solution; add to existing GH repo; Add exising project; 
 
 #include "framework.h"
 #include "Win32BitmapViewer.h"
